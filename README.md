@@ -11,6 +11,9 @@ Eugene, OR
 
 December 2015 - Present
 
+<details>
+ <summary><b>Details</b></summary>
+ 
 * Served a team technical lead for last 3 years or so
 * Design work - working on a small teams means lots of requirements engineering, design, and idea generation is up for grabs. I found myself filling these roles often.
 * Worked on Android applications in Java and Kotlin (Scan2Deploy, DXU, SoftSpot)
@@ -27,12 +30,16 @@ December 2015 - Present
 
 Skills Used
 Win32 API, C, C++, C#, Visual Studio, Java, Kotlin, Android Studio, Windows CE, driver development, Android 6/7, git, Gitlab, node.js, Angular, Xamarin, Cordova, React, dokku, Docker, Linux
-
+</details>
+ 
 ### Senior Software Engineer - L-3 Communications
 Waco, TX
 
 January 2010 - December 2015
 
+<details>
+ <summary><b>Details</b></summary>
+ 
 * Software Engineer for FORCE (http://www2.l3t.com/pid/products/force.html
 * Developed embedded touch screen-based device using Qt QML, and C++ on OpenEmbedded Linux
 * Designed and developed C++ software on RedHat Linux to provide VoIP calling, presence information, and recording functionality to the FORCE system.
@@ -43,12 +50,16 @@ January 2010 - December 2015
 * Maintained FORCE VoIP iOS iPhone app in Objective-C.
 * Mentored junior engineers
 * Helped interview potential new hires
+</details>
 
 ### Software Engineer - Avaya
 Westminster, CO
 
 April 2006 - January 2010
 
+<details>
+ <summary><b>Details</b></summary>
+ 
 * Developed software on Avaya Communication Manager (CM) telephony server, focusing on SIP, H.323, and ISDN protocols.
 * Used well-structured development processes and tools to deliver new features and bug fixes to large C/C++ Linux-platform code base (7 million+ lines of code).
 * Designed, developed and tested User-to-User SIP header implementation, influencing contents of RFC 6567
@@ -56,12 +67,16 @@ April 2006 - January 2010
 * Demonstrated a wide-range of rapid technical debugging skills - reading code and fixing bugs in C++, reporting problems, quickly becoming an "expert" with system features, capturing, filtering and analyzing log files, providing custom patches to critical product defects, and analyzing traffic on customer data networks (Wireshark)
 * Interacted with a variety of other Avaya and 3rd party products (Avaya: SES, AES, CMS, IQ, G860 High Density Gateway. 3rd Party: Cisco phones and servers, NICE and Witness IVRs, Acme Packet Session Border Controllers, Microsoft Unified Messaging, etc.).
 * Demonstrated exceptional communication skills with customer support staff and engineers, explaining issues and working to resolve them.
+</details>
 
 ### Systems Analyst - Alan Ritchey Inc
 Valley View, TX
 
 2002 - 2006
 
+<details>
+ <summary><b>Details</b></summary>
+ 
 * Analyzed, procured, integrated, and made changes to applications as business rules changed.
 * Designed and developed a company website using HTML, PHP, ASP, MS Access, and DB2 on AS/400.
 * Bank of America Positive Pay Integration - Wrote an AS/400 CL script to automatically encrypt data with PGP and send to bank through FTP.
@@ -69,6 +84,7 @@ Valley View, TX
 * Supported Cisco switches and routers on LAN and WAN, installed network cabling, and performed network bandwidth analysis.
 * Administered and backed-up Windows 2000/2003 servers, Exchange Server 2003, SQL Server 2000, Surf Control SMTP filter, and Kronos iSeries Timekeeper.
 * Administered Windows 2000/XP workstations and LAN printers and fielded "help desk" questions.
+</details>
 
 ## Education
 
