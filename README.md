@@ -1,6 +1,6 @@
 ## About me
 
-- 😄 Pronouns: he / him / his
+- Pronouns: he / him / his
  
 - Software Engineer with over 15 years experience and a masters degree in Computer Science. I've spent the last several years in a team lead role, developing Android software for a device OEM. Also doing web development in Angular and node.js, Leading the crusade to make our documentation public and easily accessible. Developing SDKs for Xamarin, Cordova, React Native. Serving as the team DevOps engineer.
 
