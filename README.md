@@ -6,10 +6,23 @@
 
 ## Work Experience
 
+### Software Engineer - Thermo Fisher Scientific
+Eugene, OR
+
+November 2021 - Present
+
+<details>
+ <summary><b>Details</b></summary>
+ 
+* C++ development on Windows 10 for for Attune NxT Flow Cytometry product
+* Updated software to be compatible with new REST APIs (device registration and file transfer)
+* Improved company's software engineer hiring process
+</details>
+ 
 ### Software Engineer 3 - Datalogic
 Eugene, OR
 
-December 2015 - Present
+December 2015 - November 2021
 
 <details>
  <summary><b>Details</b></summary>
@@ -69,23 +82,6 @@ April 2006 - January 2010
 * Demonstrated exceptional communication skills with customer support staff and engineers, explaining issues and working to resolve them.
 </details>
 
-### Systems Analyst - Alan Ritchey Inc
-Valley View, TX
-
-2002 - 2006
-
-<details>
- <summary><b>Details</b></summary>
- 
-* Analyzed, procured, integrated, and made changes to applications as business rules changed.
-* Designed and developed a company website using HTML, PHP, ASP, MS Access, and DB2 on AS/400.
-* Bank of America Positive Pay Integration - Wrote an AS/400 CL script to automatically encrypt data with PGP and send to bank through FTP.
-* Created MS Access database and reports to track cattle and related statistics of the dairy division.
-* Supported Cisco switches and routers on LAN and WAN, installed network cabling, and performed network bandwidth analysis.
-* Administered and backed-up Windows 2000/2003 servers, Exchange Server 2003, SQL Server 2000, Surf Control SMTP filter, and Kronos iSeries Timekeeper.
-* Administered Windows 2000/XP workstations and LAN printers and fielded "help desk" questions.
-</details>
-
 ## Education
 
 ### Graduate Certificate in Embedded Systems
@@ -98,10 +94,6 @@ University of North Texas
 
 August 2002 - August 2005
 
-### Bachelor of Science in Computer Information Systems
-DeVry University - Irving, TX
-
-June 1999 - March 2002
 
 
 ## Skills
