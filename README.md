@@ -6,10 +6,21 @@
 
 ## Work Experience
 
-### Software Engineer - Thermo Fisher Scientific
+### Principal Software Engineer - 6 River Systems
+Remote
+
+May 2022 - Present
+
+<details>
+ <summary><b>Details</b></summary>
+ 
+* React, Typescript, Kotlin Android development
+</details>
+
+### Software Engineer - Thermo Fisher Scientific (Contract)
 Eugene, OR
 
-November 2021 - Present
+November 2021 - May 2022
 
 <details>
  <summary><b>Details</b></summary>
