@@ -114,43 +114,34 @@ August 2002 - August 2005
 Technology | Experience
 -----------|------------
 C++ | 10+ years
+Typescript | 2 years
+Node.js | 2 years
+Kotlin | 2 years
 Java | 5 years
 C | 5 years
 BASH shell scripting | 8 years
 PHP | 2 years
 C# | 2 years
 SQL | 4 years
-PL-SQL | 2 years
-COBOL | 2 years
 HTML | 10 years
 XML | 6 years
-Eclipse | 5 years
 Qt Creator | 5 years
 iOS Development (Objective C & XCode) | 1 year
 Visual Studio | 4 years
 Linux | 10+ years
 Windows (development) | 4 years
 Solaris | 2 years
-Subversion | 6 years
 JIRA | 4 years
 Ubuntu | 4 years
 RedHat Linux | 5 years
 Boost (C++) | 4 years
-Ms Access | 4 years
-Oracle | 2 years
-Db2 | 2 years
 Wireshark | 8 years
-Microsoft Office | 10+ years
 Network Analysis (TCP/IP, UDP) | 10+ years
-Asp | 2 years
 Git | 5 years
 User Interface (UI) |5 years
 APIs | 5 years
 JavaScript | 3 years
 REST | 3 years
-Agile | 5 years
-Scripting | 10+ years
-GitHub | 5 years
 Node.js | 3 years
 Docker | 3 years
 
