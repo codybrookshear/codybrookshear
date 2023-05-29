@@ -99,8 +99,22 @@ April 2006 - January 2010
 
 ### Graduate Certificate in Embedded Systems
 University of Colorado - Boulder
+- 9 credit hour graduate certificate 
+- January 2007 - May 2008
 
-January 2007 - May 2008
+<details>
+ <summary><b>Details</b></summary>
+ 
+- GPA: 3.7
+
+• ECEN 5613 - Embedded Systems Design
+
+Introduced system hardware and firmware design for embedded applications. Independently designed and developed a hardware platform encompassing a microcontroller and peripherals. Developed firmware in C and assembly for 8051-based 8-bit processor. Designed and developed a basic VoIP phone as final project.
+
+• ECEN 5033 - Real Time Digital Media
+
+• ECEN 5543 - Software Engineering of Standalone Programs
+</details>
 
 ### Master of Science in Computer Science
 University of North Texas
