@@ -8,15 +8,20 @@
 
 ## Work Experience
 
-### Principal Software Engineer - [6 River Systems](https://6river.com/)
+### Principal Software Engineer - [Shopify (6 River Systems)](https://6river.com/)
 Remote
 
-May 2022 - Present
+May 2022 - May 2023
 
 <details>
  <summary><b>Details</b></summary>
  
-* React, Typescript, Kotlin Android development
+* I was on the engineering team at 6 River Systems, which was owned by Shopify Inc.
+* Node.js (Typescript) development for a warehouse robot running on ROS (Robot Operating System). 
+* Android development in Kotlin and Typescript (webview) for Zebra TC21 mobile device
+* Main project: transformed large Node.js codebase to run in an Android (Chrome) webview
+* Implemented a self-updating mechanism for the Android app in Kotlin
+* Developed for backend services using Kubernetes, Terraform and Docker on Google cloud (GCP)
 </details>
 
 ### Software Engineer - [Thermo Fisher Scientific](https://www.thermofisher.com) (Contract)
