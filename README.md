@@ -4,7 +4,9 @@ Eugene, OR
 
 ## Contact
 Email:    codybrookshear@gmail.com
+
 LinkedIn: linkedin.com/in/codybrookshear
+
 GitHub:   github.com/codybrookshear
 
 ## Summary
