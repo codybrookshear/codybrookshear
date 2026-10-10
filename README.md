@@ -7,4 +7,4 @@ Eugene, OR
 ## Contact
 Email:    codybrookshear@gmail.com
 
-[LinkedIn](linkedin.com/in/codybrookshear)
+[LinkedIn](https://linkedin.com/in/codybrookshear)
